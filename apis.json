@@ -1,0 +1,56 @@
+{
+    "name": "TrustYou",
+    "description": "Leverage guest feedback to improve the guest experience, increase your hotel\u2019s online visibility, improve operations, and drive more bookings with TrustYou.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/957-trustyou.jpg",
+    "tags": [
+        "have api",
+        "marketplaces",
+        "matches",
+        "semantic",
+        "semantic analysis",
+        "sentiment analysis",
+        "social"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/trustyou\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TrustYou",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/957-trustyou.jpg",
+            "humanURL": "http:\/\/www.trustyou.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": []
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.trustyou.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.trustyou.com\/category\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/trustyou"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/trustyou"
+        },
+        {
+            "type": "Email",
+            "url": "info@trustyou.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/trustyou"
+        }
+    ]
+}
