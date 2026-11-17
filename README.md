@@ -64,9 +64,9 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-TrustYou provides an AI‑powered hospitality platform that helps hotels collect guest feedback, unify guest data, and automate guest conversations. Since 2008 the company has served thousands of hotels worldwide, offering products such as CXP (guest experience platform), CDP (customer data platform), TrustYou Agent for 24/7 AI chat, and Meta Review for reputation management. Their solutions enable hotels to increase revenue, improve guest satisfaction, and make data‑driven decisions through integrated surveys, reviews, and AI insights.
+TrustYou provides AI‑powered hospitality software that helps hotels understand and engage guests throughout their journey. Their platform combines guest feedback, reputation management, and data‑driven insights to improve experience, increase bookings, and drive revenue. TrustYou’s solutions include a Customer Experience Platform, a Customer Data Platform, AI agents, and analytics tools, serving hospitality operators worldwide.
 
-**Areas:** Company
+**Areas:** Hospitality · AI · GuestExperience · DataAnalytics · SaaS
 
 ## TrustYou on APIs.io
 
@@ -89,26 +89,27 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 - [Website](https://www.trustyou.com/)
 - [Pricing](https://www.trustyou.com/pricing/)
-- [Support](https://support.cxp.trustyou.com/hc/en-us)
+- [Support](https://support.cxp.trustyou.com/hc/en-us/)
 - [Blog](https://www.trustyou.com/blog/)
 - [Terms of service](https://www.trustyou.com/terms-conditions/)
 - [Privacy policy](https://www.trustyou.com/privacy-policy/)
+- [GitHub](https://github.com/trustyou)
 - [Status](https://status.trustyou.com/)
 
 ## API Evangelist rating
 
-**Kin Score 17.2** — emerging · rubric 0.28.0 · scored 2026-11-17
+**Kin Score 21.4** — emerging · rubric 0.27.0 · scored 2026-11-17
 
 | Facet | Score |
 |---|---|
-| Discoverability | 48.2 |
+| Discoverability | 50.0 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 23.8 |
-| Developer ergonomics | 7.1 |
-| Access clarity | 36.2 |
+| Operational transparency | 31.6 |
+| Developer ergonomics | 14.3 |
+| Access clarity | 44.7 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 6.0** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
@@ -123,7 +124,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Rate Limit Signal | — |
 | Event Surface Described | — |
 | Agent Skills | — |
-| Well Known Catalog | — |
+| Well Known Catalog | yes |
 | Consent Identity | — |
 | Agent Card | — |
 | Dry Run Mode | — |
@@ -135,7 +136,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
 
-**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/trustyou/](https://apis.io/providers/trustyou/).
 
